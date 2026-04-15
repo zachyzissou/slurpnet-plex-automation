@@ -1,5 +1,5 @@
 > **License Notice**
-> This repository is source-visible only. No copying, modification, redistribution, deployment, or commercial use is permitted without prior written permission from Zach Gonser. See `LICENSE` for details.
+> This repository is source-visible only. Incidental copies made solely as required to access, view, read, test, validate, or evaluate the repository are permitted. Modification, redistribution, deployment, reuse, or commercial use is not permitted without prior written permission from Zach Gonser. See `LICENSE` for details.
 
 # slurpnet-plex-automation
 
